@@ -1,25 +1,2 @@
 api/node_modules
-
-vue-app/.DS_Store
 vue-app/node_modules
-vue-app/dist
-
-
-# local env files
-vue-app/.env.local
-vue-app/.env.*.local
-
-# Log files
-vue-app/npm-debug.log*
-vue-app/yarn-debug.log*
-vue-app/yarn-error.log*
-vue-app/pnpm-debug.log*
-
-# Editor directories and files
-vue-app/.idea
-vue-app/.vscode
-vue-app/*.suo
-vue-app/*.ntvs*
-vue-app/*.njsproj
-vue-app/*.sln
-vue-app/*.sw?
